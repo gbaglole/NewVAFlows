@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <code/>
+        <commented_message/>
+        <key>what would you like to update on teh record?</key>
+        <language>en</language>
+        <message>What would you like to update on teh record?</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-30 19:44:43</sys_created_on>
+        <sys_id>4d4ca1da97cc69106004bf8fe153af24</sys_id>
+        <sys_name>what would you like to update on teh record?</sys_name>
+        <sys_package display_value="New NeedIt Virtual Agent Conversations" source="x_746142_needit_vi">4adbfcd6970c69106004bf8fe153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New NeedIt Virtual Agent Conversations">4adbfcd6970c69106004bf8fe153af01</sys_scope>
+        <sys_update_name>sys_ui_message_4d4ca1da97cc69106004bf8fe153af24</sys_update_name>
+    </sys_ui_message>
+</record_update>
